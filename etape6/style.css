@@ -75,3 +75,12 @@ button{
     box-sizing: border-box;
     margin-top: 5px;
 }
+.btn-extra {
+    background-color: #5555cc;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
